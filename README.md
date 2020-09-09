@@ -1,3 +1,3 @@
 # Transcendental Capital
 
-Website of https://www.transcendental-capital.com
+Website of https://transcendental-capital.com
