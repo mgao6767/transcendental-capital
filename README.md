@@ -1,2 +1,3 @@
-# transcendental-capital
- website of https://transcendental-capital.com
+# Transcendental Capital
+
+Website of https://www.transcendental-capital.com
